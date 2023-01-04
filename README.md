@@ -13,3 +13,6 @@ Kommentáva az esemény                                           ---> git commi
 Az "app.js" módosítva
 Hozzáadva a gyüjteményhez                                       ---> git add .          
 Kommentáva az esemény                                           ---> git commit -m 
+Az "style.css" módosítva
+Hozzáadva a gyüjteményhez                                       ---> git add .          
+Kommentáva az esemény                                           ---> git commit -m 
