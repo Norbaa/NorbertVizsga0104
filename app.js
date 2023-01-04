@@ -13,6 +13,10 @@ const songs = ["hey", "summer", "ukulele", "river"];
 //Kiinduló zene indexe
 let songIndex = 2;
 
+
+window.addEventListener("load",() => {console.log("Az oldal sikeresen betöltődött!!!");})
+
+
 //Zene adatainak betöltése a DOMba
 loadSong(songs[songIndex]);
 

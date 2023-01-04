@@ -10,3 +10,6 @@ Az új ág "console" létrehozása                                  ---> git bra
 Váltás a "console" ágra                                         ---> git checkout console
 Hozzáadva a gyüjteményhez                                       ---> git add .          
 Kommentáva az esemény                                           ---> git commit -m 
+Az "app.js" módosítva
+Hozzáadva a gyüjteményhez                                       ---> git add .          
+Kommentáva az esemény                                           ---> git commit -m 
