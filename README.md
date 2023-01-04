@@ -3,3 +3,6 @@ Távoli gyüjteményből a fájlok feltöltése a "projekt" mappába    ---> git
 Létrehozva a README.md fájl                       
 Hozzáadva a gyüjteményhez                                       ---> git add .          
 Kommentáva az esemény                                           ---> git commit -m 
+A ".gitignore" létrehozva és ignorálva vannak a fájlok
+Hozzáadva a gyüjteményhez                                       ---> git add .
+Kommentáva az esemény                                           ---> git commit -m
