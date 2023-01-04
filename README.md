@@ -6,3 +6,7 @@ Kommentáva az esemény                                           ---> git commi
 A ".gitignore" létrehozva és ignorálva vannak a fájlok
 Hozzáadva a gyüjteményhez                                       ---> git add .
 Kommentáva az esemény                                           ---> git commit -m
+Az új ág "console" létrehozása                                  ---> git branch console
+Váltás a "console" ágra                                         ---> git checkout console
+Hozzáadva a gyüjteményhez                                       ---> git add .          
+Kommentáva az esemény                                           ---> git commit -m 
